@@ -1,0 +1,142 @@
+[
+  {
+    "key": 1,
+    "image": "a7c36.jpeg",
+    "title": "Product 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 10.99
+  },
+  {
+    "key": 2,
+    "image": "a7c36.jpeg",
+    "title": "Product 2",
+    "description": "Nulla facilisi. Aenean in tellus magna. ",
+    "price": 19.99
+  },
+  {
+    "key": 3,
+    "image": "a7c36.jpeg",
+    "title": "Product 3",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+    "price": 5.99
+  },
+  {
+    "key": 4,
+    "image": "a7c36.jpeg",
+    "title": "Product 4",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 15.99
+  },
+  {
+    "key": 5,
+    "image": "a7c36.jpeg",
+    "title": "Product 5",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 12.99
+  },
+  {
+    "key": 6,
+    "image": "a7c36.jpeg",
+    "title": "Product 6",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "price": 7.99
+  },
+  {
+    "key": 7,
+    "image": "a7c36.jpeg",
+    "title": "Product 7",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 9.99
+  },
+  {
+    "key": 8,
+    "image": "a7c36.jpeg",
+    "title": "Product 8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 24.99
+  },
+  {
+    "key": 9,
+    "image": "a7c36.jpeg",
+    "title": "Product 9",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+    "price": 17.99
+  },
+  {
+    "key": 10,
+    "image": "a7c36.jpeg",
+    "title": "Product 10",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.",
+    "price": 11.99
+  },
+  {
+    "key": 11,
+    "image": "a7c36.jpeg",
+    "title": "Product 11",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": 10.99
+  },
+  {
+    "key": 12,
+    "image": "a7c36.jpeg",
+    "title": "Product 12",
+    "description": "Nulla facilisi. Aenean in tellus magna. ",
+    "price": 19.99
+  },
+  {
+    "key": 13,
+    "image": "a7c36.jpeg",
+    "title": "Product 13",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+    "price": 5.99
+  },
+  {
+    "key": 14,
+    "image": "a7c36.jpeg",
+    "title": "Product 14",
+    "description": "Duis aute irure dol\"https://example.com/image4.jpgor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "price": 15.99
+  },
+  {
+    "key": 15,
+    "image": "a7c36.jpeg",
+    "title": "Product 15",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": 12.99
+  },
+  {
+    "key": 16,
+    "image": "a7c36.jpeg",
+    "title": "Product 16",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "price": 7.99
+  },
+  {
+    "key": 17,
+    "image": "a7c36.jpeg",
+    "title": "Product 17",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 9.99
+  },
+  {
+    "key": 18,
+    "image": "a7c36.jpeg",
+    "title": "Product 18",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 24.99
+  },
+  {
+    "key": 19,
+    "image": "a7c36.jpeg",
+    "title": "Product 19",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+    "price": 17.99
+  },
+  {
+    "key": 20,
+    "image": "a7c36.jpeg",
+    "title": "Product 20",
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.",
+    "price": 11.99
+  }
+  ]
